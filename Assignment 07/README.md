@@ -9,7 +9,7 @@
 | Kirti Gautam | 20252651029 |
 | Pintu | 20252651038 |
 
-**GitHub repo:** https://github.com/Kirtiiig13/CampusEats
+**GitHub repo:** https://github.com/Ankurguptadev/CampusEats
 **Google Drive:** https://drive.google.com/drive/folders/1v7WH8PwRlYjhg_WE_O-rvMhAaVHqMqo0?usp=sharing
 
 ## How to run it
